@@ -1,6 +1,6 @@
 ### Hey, i'm Sashini Liyanage 👋
 
-I'm a Computer Engineering student at University of Peradeniya :student: I'm currently learning about Git and Github :octocat:
+I'm a 3rd year Computer Engineering student at University of Peradeniya :student:
 
 <!--
 **SashiniLiyanage/SashiniLiyanage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
