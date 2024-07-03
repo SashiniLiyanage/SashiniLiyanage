@@ -1,6 +1,6 @@
-### Hey, i'm Sashini Liyanage 👋
+### Hey, I'm Sashini Liyanage 👋
 
-I'm a 3rd year Computer Engineering student at University of Peradeniya :student:
+I completed my Computer Engineering degree with First Class Honours from the University of Peradeniya and currently serve as a Research Assistant at the Multidisciplinary AI Research Center at the same university. :student:
 
 <!--
 **SashiniLiyanage/SashiniLiyanage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
